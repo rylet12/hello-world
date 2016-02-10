@@ -1,2 +1,4 @@
 # hello-world
-testing new repository
+
+Hi all,
+This is for testing.
